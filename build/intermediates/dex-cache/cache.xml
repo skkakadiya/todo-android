@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/08f0abed2957357153b438fe6fe49ee4bc3c4b92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/classes_8a181030577a311432cd0e08d65effed50575bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/hamcrest-library-1.3_8ee187c23ad70cbc19e5e28ee6c216bae77f8a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/7837f95bdff9f797003454247fef02b78d49ae75/accessibility-test-framework-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7837f95bdff9f797003454247fef02b78d49ae75">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/accessibility-test-framework-2.0_7cb94dfb595d50f885144aabdc28aefe1bf590be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1e3fcfd4f7123cede487374887eddbfb1bf95ed7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/classes_a1068ecf1c2386589dc7d01dc3a104a165e18196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/fbcce2ee244ac5e9480b35316b4dbba1092065bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/classes_563d5ae8f5794a1a052995abb842378dbf38f6fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/junit-4.12_e18101dc0d5fe0b14810449e9c489a128cdf2b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/hamcrest-core-1.3_4bb29b70862e07a4c0c7aace47652727b223fdfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/jsr305-2.0.1_337933e5d59cf143dbb8bbc6baaf86936956d5b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/17955dfbf45f3efb0c8576c28c70bab053bc2747/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/classes_921690374c689a2c1812ee253338f4b4e36f125d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/hamcrest-integration-1.3_baf9611c2fe6166b25db1715b4b8fcf31a7e307e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker/1.2/4d5045fefa6d286c5ddf733e321fe6e5e632efb6/dexmaker-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d5045fefa6d286c5ddf733e321fe6e5e632efb6">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/dexmaker-1.2_cec231979539b4bbf525a845d66ae8f6cebe9294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/javawriter-2.1.1_ba78fa7d272b3fbd19d46d0f527381d51ca80312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8546f5bef4e061d8dd73895b4e8f40e3fe6effe">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/mockito-core-1.10.19_009a08e990d111c2dffa65bec0633288d01cfe3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker-mockito/1.2/b99884a4c6ef6335ba376f79aa79632b2421c17c/dexmaker-mockito-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b99884a4c6ef6335ba376f79aa79632b2421c17c">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/dexmaker-mockito-1.2_80185f27cfc51d64978e45876ab8245db04ce482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/23473087081cfc8c16ac1195b3fbda1efb757b19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56576e0b04aae5e9756bf6e791f74b5e3850ac03">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/classes_66bde9628db2a62a17a6a167e2560ebdce282ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/javax.annotation-api-1.2_1e007753630aecd4d112f47539a0741fb9ce1439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/eb31ef7eaf226b067d3dfafff28c7856d0f6daa9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efc9e293447db1929eb3853a3f83e8f46a957436">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/classes_be6e642213a81803b3dfe95635d9572690c05260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/home/sanjay/firebase/android-architecture-todo-mvp/todoapp/app/build/intermediates/pre-dexed/androidTest/mock/debug/objenesis-2.1_6b3baccf179f8e835d62faf506e84cd008c3a83f.jar" />
+    </item>
+
+</items>
